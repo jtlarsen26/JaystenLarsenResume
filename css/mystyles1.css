@@ -1,0 +1,83 @@
+.lacrosseimg {
+    top:1000px;
+    margin:100px;
+    position:inherit;
+    height: 800px;
+
+}
+
+.box1{
+    padding: 40px;
+    background-color:#567580;
+    color: whitesmoke;
+    text-wrap: 1px;
+    left: 800px;
+    top: 850px;
+    font-size: 20px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box2{
+    padding: 40px;
+    background-color:#567580;
+    color: whitesmoke;
+    text-wrap: 1px;
+    left: 200px;
+    top: 1050px;
+    font-size: 20px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg {
+    background-color: blanchedalmond;
+}
+
+.topbox {
+    background-color:#567580;
+    color: whitesmoke;
+    padding:30px;
+    margin:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vid{
+    margin-top: 0px;
+    color:#567580;
+    margin-left: 850px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableau-embed {
+    width: 100%; /* Full width */
+    height: 500px; /* Adjust height as needed */
+    border: none; /* Remove the border */
+}
+
+.tableau{
+    height: 1000px;
+    margin-left:200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #567580;
+    margin-top: 100px;
+}
+
+.links{
+    color: #567580;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+
+.links:visited{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.bottom{
+    color:whitesmoke;
+    background-color: #567580;
+    padding: 30px;
+}
